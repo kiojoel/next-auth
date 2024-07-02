@@ -21,7 +21,7 @@ export default function Home() {
         >
           Auth
         </h1>
-        <p className="text-white text-lg">A simple authentication service</p>
+        <p className="text-white text-lg">A simple authentication app</p>
 
         <div>
           <LoginButton>
